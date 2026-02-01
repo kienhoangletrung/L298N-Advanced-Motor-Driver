@@ -1,14 +1,18 @@
-﻿# L298N-Advanced-Motor-Driver
+﻿# L298N Advanced Motor Driver
 
-Electronic hardware module designed using **Altium Designer**.
+Dual H-Bridge motor driver with monitoring.
+
+## Function
+Controls DC motors or stepper motors.
+
+## Key Specifications
+- Driver: L298N
+- Buck: LM2596S-5.0
+- Sensing: LM358
+- Protection: SS54 diodes
 
 ## Hardware Preview
 ![Preview](preview.png)
 
-## Contents
-- Schematic
-- PCB Layout
-- 3D View
-
 ---
-Designed by **HOANG LE TRUNG KIEN**
+Designed by HOANG LE TRUNG KIEN
